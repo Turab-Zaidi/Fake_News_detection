@@ -1,0 +1,1 @@
+Fake News Detection with BiLSTM: This project utilizes Bidirectional LSTM neural networks to identify misleading information. Input text is analyzed for patterns, helping to combat misinformation effectively
